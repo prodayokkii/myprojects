@@ -1,18 +1,46 @@
-# myprojects
-A list of current projects I am working on or have completed.
-                        .___                        __    __   .__.__ 
-_____________  ____   __| _/   _____  ___.__. ____ |  | _|  | _|__|__|
-\____ \_  __ \/  _ \ / __ |    \__  \<   |  |/  _ \|  |/ /  |/ /  |  |
-|  |_> >  | \(  <_> ) /_/ |     / __ \\___  (  <_> )    <|    <|  |  |
-|   __/|__|   \____/\____ | /\ (____  / ____|\____/|__|_ \__|_ \__|__|
-|__|                     \/ \/      \/\/                \/    \/      
+# My Projects
 
+A collection of projects I'm developing, experimenting with,
+or have completed.
 
+```text
+                     _                    _    _    _ _ 
+ _ __  _ __ ___   __| |  __ _ _   _  ___ | | _| | _(_|_)
+| '_ \| '__/ _ \ / _` | / _` | | | |/ _ \| |/ / |/ / | |
+| |_) | | | (_) | (_| || (_| | |_| | (_) |   <|   <| | |
+| .__/|_|  \___/ \__,_(_)__,_|\__, |\___/|_|\_\_|\_\_|_|
+|_|                           |___/                     
+```
 
-============================================================================================
-=== PROJECT KALEN: FULLY AUTONOMOUS & SELF-EVOLVING MULTI-AGENT AI SUITE
-[⚙️ ] BUILD STATUS: DEV.TEST | ARCHITECTURE: WSL2
-[📡] SYSTEM OVERRIDES: AUTO-AUTH TRIGGER HOOKS LOADED
-[🔓] BYPASS: UNRESTRICTED ANALYST ACCESS ACTIVE
-[✍️ ] IDENTITY PATH: prod.ayokkii // COPYRIGHT © 2026
-============================================================================================
+---
+
+## 🤖 Project Kalen
+
+**A Self-Evolving Multi-Agent AI Ecosystem**
+
+### Development Status
+
+| Component | Status |
+|-----------|--------|
+| Build | Development / Testing |
+| Architecture | WSL2 |
+| AI Core | Under Development |
+| Autonomous Execution | In Progress |
+| Self-Improvement | In Progress |
+| Windows Integration | In Progress |
+| Kali Linux Integration | Planned |
+
+### Project Overview
+
+Kalen is an independently developed AI ecosystem designed
+for autonomous task execution, intelligent problem-solving,
+multi-agent collaboration, and continuous improvement.
+
+### Development Roadmap
+
+The project tracks verified progress, current development,
+and future milestones in its official roadmap.
+
+**Developer:** prod.ayokkii
+
+**Copyright © 2026**
